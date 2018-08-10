@@ -1,6 +1,6 @@
 # Operating_Systems
 
-Steps to compile:
+Steps to compile and run:
   - Download the .java file you want to compile
   - open command line 
   - run "javac -version"  without quotation marks
