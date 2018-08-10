@@ -1,5 +1,9 @@
 # Operating_Systems
 
+Description: 
+  This repository is a homework from operating system. 
+  
+  
 Steps to compile and run:
   - Download the .java file you want to compile
   - open command line 
