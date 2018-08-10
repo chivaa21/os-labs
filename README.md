@@ -5,7 +5,7 @@ Description:
   
   
 Steps to compile and run:
-  - Download the .java file you want to compile
+  - Download the .java file you want to compile and run 
   - open command line 
   - run "javac -version"  without quotation marks
   - if you see "javac 1.8.0_181" or something you have java compiler installed on your pc and you can run my program. if not go and follow   this video: https://www.youtube.com/watch?v=Tz0dj-DpxDo
