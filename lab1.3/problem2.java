@@ -17,7 +17,7 @@ public class problem2 {
 		boolean ready = false;
 		while(!ready) {
 			try {
-				nums = Integer.parseInt(JOptionPane.showInputDialog("¿Cuantos numeros desea agregar? "));
+				nums = Integer.parseInt(JOptionPane.showInputDialog("Â¿Cuantos numeros desea agregar? "));
 				ready=true;
 			}
 			catch(NumberFormatException e) {
@@ -68,7 +68,7 @@ public class problem2 {
 		//finaliza el timepo
 		long timems = System.currentTimeMillis() - startTime;
 
-		JOptionPane.showMessageDialog(null, "La mediana es: "+res+" y tomó un tiempo de: "+ timems + " ms");
+		JOptionPane.showMessageDialog(null, "La mediana es: "+res+" y tomÃ³ un tiempo de: "+ timems + " ms");
 	}
 
 	// ordenamiento por mergesort
