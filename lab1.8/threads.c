@@ -24,11 +24,7 @@ int main(void)
         solve_for_threads;
     printf("number of threads: ");
     scanf("%d",&set_number_of_threads);
-    
-   
-   
    count_th=init_threads;
-
   
     pthread_t c[set_number_of_threads];
     threadNode arrayThreads[set_number_of_threads];      
